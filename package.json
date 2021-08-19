@@ -1,0 +1,20 @@
+{
+    "name": "whatsbot",
+    "version": "1.0.0",
+    "description": "whatsapp api",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ffmpeg": "0.0.4",
+        "instagram-save": "^1.3.2",
+        "lodash": "^4.17.21",
+        "python-shell": "^2.0.3",
+        "qrcode-terminal": "^0.12.0",
+        "rtl-arabic": "^1.1.0",
+        "selenium-webdriver": "^4.0.0-beta.4",
+        "whatsapp-web.js": "^1.12.6"
+    }
+}
